@@ -1,7 +1,7 @@
 package protocolerrors
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/ruleerrors"
+	"github.com/e4p1k0/pyipad/domain/consensus/ruleerrors"
 	"github.com/pkg/errors"
 )
 

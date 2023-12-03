@@ -1,10 +1,10 @@
 package blockrelay
 
 import (
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/app/protocol/common"
-	"github.com/Pyrinpyi/pyipad/app/protocol/protocolerrors"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/app/protocol/common"
+	"github.com/e4p1k0/pyipad/app/protocol/protocolerrors"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 func (flow *handleRelayInvsFlow) sendGetBlockLocator(highHash *externalapi.DomainHash, limit uint32) error {

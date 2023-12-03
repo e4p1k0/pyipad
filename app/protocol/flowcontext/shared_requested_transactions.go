@@ -3,7 +3,7 @@ package flowcontext
 import (
 	"sync"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 // SharedRequestedTransactions is a data structure that is shared between peers that

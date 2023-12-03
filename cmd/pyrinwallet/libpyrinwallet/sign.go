@@ -1,13 +1,13 @@
 package libpyrinwallet
 
 import (
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/libpyrinwallet/bip32"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/libpyrinwallet/serialization"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/txscript"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/utxo"
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/libpyrinwallet/bip32"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/libpyrinwallet/serialization"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/txscript"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/utxo"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
 	"github.com/pkg/errors"
 )
 

@@ -1,6 +1,6 @@
 package model
 
-import "github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+import "github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
 // WindowHeapSliceStore caches the slices that are needed for the heap implementation of DAGTraversalManager.BlockWindow
 type WindowHeapSliceStore interface {

@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/stability-tests/common/rpc"
+	"github.com/e4p1k0/pyipad/stability-tests/common/rpc"
 
 	"github.com/pkg/errors"
 )

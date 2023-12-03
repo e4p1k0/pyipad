@@ -1,8 +1,8 @@
 package model
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
 )
 
 // MempoolTransaction represents a transaction inside the main TransactionPool

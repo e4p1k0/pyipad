@@ -2,8 +2,8 @@ package utxoindex
 
 import (
 	"encoding/binary"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/database/serialization"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/database/serialization"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 	"github.com/pkg/errors"
 	"google.golang.org/protobuf/proto"
 	"io"

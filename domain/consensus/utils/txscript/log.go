@@ -5,7 +5,7 @@
 package txscript
 
 import (
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
 )
 
 var log = logger.RegisterSubSystem("SCRP")

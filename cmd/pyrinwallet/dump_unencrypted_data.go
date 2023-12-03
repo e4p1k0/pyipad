@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/keys"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/libpyrinwallet"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/utils"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/keys"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/libpyrinwallet"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/utils"
 
 	"github.com/pkg/errors"
 )

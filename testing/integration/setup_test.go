@@ -4,14 +4,14 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database/ldb"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database/ldb"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database"
 
-	"github.com/Pyrinpyi/pyipad/app"
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/app"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
 )
 
 type appHarness struct {

@@ -5,7 +5,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/os/limits"
+	"github.com/e4p1k0/pyipad/infrastructure/os/limits"
 )
 
 // Initialize initializes the execution environment required to run pyipad

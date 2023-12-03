@@ -1,9 +1,9 @@
 package transactionvalidator
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/testapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/txscript"
+	"github.com/e4p1k0/pyipad/domain/consensus/model"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/testapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/txscript"
 )
 
 type testTransactionValidator struct {

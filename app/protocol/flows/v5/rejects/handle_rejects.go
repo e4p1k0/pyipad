@@ -1,9 +1,9 @@
 package rejects
 
 import (
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/app/protocol/protocolerrors"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/app/protocol/protocolerrors"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
 )
 
 // HandleRejectsContext is the interface for the context needed for the HandleRejects flow.

@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database/ldb"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common/mine"
+	"github.com/e4p1k0/pyipad/domain/consensus"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database/ldb"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/stability-tests/common/mine"
 	"github.com/pkg/errors"
 )
 

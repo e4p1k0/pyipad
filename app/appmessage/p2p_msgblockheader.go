@@ -7,10 +7,10 @@ package appmessage
 import (
 	"math/big"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/util/mstime"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/util/mstime"
 )
 
 // BaseBlockHeaderPayload is the base number of bytes a block header can be,

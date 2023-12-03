@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/daemon/client"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/daemon/pb"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/daemon/client"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/daemon/pb"
 	"github.com/pkg/errors"
 )
 

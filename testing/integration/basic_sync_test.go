@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/app/appmessage"
 )
 
 func TestIntegrationBasicSync(t *testing.T) {

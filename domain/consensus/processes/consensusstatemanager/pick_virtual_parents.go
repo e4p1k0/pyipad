@@ -1,13 +1,13 @@
 package consensusstatemanager
 
 import (
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
-	"github.com/Pyrinpyi/pyipad/util/math"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/util/math"
 	"github.com/pkg/errors"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/hashset"
+	"github.com/e4p1k0/pyipad/domain/consensus/model"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/hashset"
 )
 
 func (csm *consensusStateManager) pickVirtualParents(stagingArea *model.StagingArea, tips []*externalapi.DomainHash) ([]*externalapi.DomainHash, error) {

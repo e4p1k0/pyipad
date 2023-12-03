@@ -1,10 +1,10 @@
 package transactionvalidator
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/txscript"
-	"github.com/Pyrinpyi/pyipad/util/txmass"
+	"github.com/e4p1k0/pyipad/domain/consensus/model"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/txscript"
+	"github.com/e4p1k0/pyipad/util/txmass"
 )
 
 const sigCacheSize = 10_000

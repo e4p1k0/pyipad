@@ -1,6 +1,6 @@
 package model
 
-import "github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+import "github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
 // BlockStatusStore represents a store of BlockStatuses
 type BlockStatusStore interface {

@@ -8,7 +8,7 @@ import (
 	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
 	"github.com/pkg/errors"
 )
 

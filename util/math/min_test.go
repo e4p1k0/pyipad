@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	utilMath "github.com/Pyrinpyi/pyipad/util/math"
+	utilMath "github.com/e4p1k0/pyipad/util/math"
 )
 
 const (

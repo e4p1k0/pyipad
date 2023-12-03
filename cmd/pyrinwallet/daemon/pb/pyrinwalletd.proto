@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/daemon/pb";
+option go_package = "github.com/e4p1k0/pyipad/cmd/pyrinwallet/daemon/pb";
 package pyrinwalletd;
 
 service pyrinwalletd {

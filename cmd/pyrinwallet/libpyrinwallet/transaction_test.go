@@ -5,16 +5,16 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/constants"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/constants"
+	"github.com/e4p1k0/pyipad/util"
 
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/libpyrinwallet"
-	"github.com/Pyrinpyi/pyipad/domain/consensus"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/testutils"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/txscript"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/utxo"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/libpyrinwallet"
+	"github.com/e4p1k0/pyipad/domain/consensus"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/testutils"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/txscript"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/utxo"
 )
 
 func forSchnorrAndECDSA(t *testing.T, testFunc func(t *testing.T, ecdsa bool)) {

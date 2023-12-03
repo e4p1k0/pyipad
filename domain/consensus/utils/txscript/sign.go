@@ -6,12 +6,12 @@ package txscript
 
 import (
 	"github.com/Pyrinpyi/go-secp256k1"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
 	"github.com/pkg/errors"
 
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/util"
 )
 
 // RawTxInSignature returns the serialized Schnorr signature for the input idx of

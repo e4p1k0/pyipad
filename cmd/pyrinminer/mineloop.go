@@ -6,15 +6,15 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/version"
+	"github.com/e4p1k0/pyipad/version"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinminer/templatemanager"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/pow"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/cmd/pyrinminer/templatemanager"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/pow"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/util"
 	"github.com/pkg/errors"
 )
 

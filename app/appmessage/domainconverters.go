@@ -6,14 +6,14 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/blockheader"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/hashes"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/utxo"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/blockheader"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/hashes"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/utxo"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/subnetworks"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/transactionid"
-	"github.com/Pyrinpyi/pyipad/util/mstime"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/subnetworks"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/transactionid"
+	"github.com/e4p1k0/pyipad/util/mstime"
 )
 
 // DomainBlockToMsgBlock converts an externalapi.DomainBlock to MsgBlock

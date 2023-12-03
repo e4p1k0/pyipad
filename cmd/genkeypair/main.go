@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/libpyrinwallet"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/libpyrinwallet"
+	"github.com/e4p1k0/pyipad/util"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package transactionvalidator
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 // PopulateMass calculates and populates the mass of the given transaction

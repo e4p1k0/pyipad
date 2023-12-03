@@ -9,17 +9,17 @@ import (
 	"math"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensusreference"
+	"github.com/e4p1k0/pyipad/domain/consensusreference"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/testutils"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/testutils"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus"
+	"github.com/e4p1k0/pyipad/domain/consensus"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/constants"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/constants"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/txscript"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/txscript"
+	"github.com/e4p1k0/pyipad/util"
 	"github.com/pkg/errors"
 )
 

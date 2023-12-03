@@ -4,12 +4,12 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/id"
-	routerpkg "github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server/grpcserver"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/id"
+	routerpkg "github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server/grpcserver"
 	"github.com/pkg/errors"
 )
 

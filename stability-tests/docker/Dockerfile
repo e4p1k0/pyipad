@@ -6,9 +6,9 @@ FROM ${PYIPADMINER_IMAGE} as pyrinminer
 
 FROM golang:1.19-alpine
 
-RUN mkdir -p /go/src/github.com/Pyrinpyi/pyipad
+RUN mkdir -p /go/src/github.com/e4p1k0/pyipad
 
-WORKDIR /go/src/github.com/Pyrinpyi/pyipad
+WORKDIR /go/src/github.com/e4p1k0/pyipad
 
 RUN apk add bash build-base git
 
@@ -23,7 +23,7 @@ COPY --from=pyipad /app/ /app/
 COPY --from=pyrinminer /app/ /app/
 ENV PATH="/app:${PATH}"
 
-WORKDIR /go/src/github.com/Pyrinpyi/pyipad/stability-tests
+WORKDIR /go/src/github.com/e4p1k0/pyipad/stability-tests
 
 RUN go install ./...
 

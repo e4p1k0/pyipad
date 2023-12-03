@@ -3,7 +3,7 @@ package mempoollimits
 import (
 	"path/filepath"
 
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
 	"github.com/jessevdk/go-flags"
 )
 

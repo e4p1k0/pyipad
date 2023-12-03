@@ -8,12 +8,12 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model"
+	"github.com/e4p1k0/pyipad/domain/consensus/model"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/testapi"
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/domain/consensus"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/testapi"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
 	"github.com/pkg/errors"
 )
 

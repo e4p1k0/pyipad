@@ -5,8 +5,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
 	"github.com/pkg/errors"
 )
 

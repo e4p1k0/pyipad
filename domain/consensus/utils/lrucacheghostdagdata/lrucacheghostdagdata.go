@@ -1,6 +1,6 @@
 package lrucacheghostdagdata
 
-import "github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+import "github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
 type lruKey struct {
 	blockHash     externalapi.DomainHash

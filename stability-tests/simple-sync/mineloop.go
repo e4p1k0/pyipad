@@ -4,10 +4,10 @@ import (
 	"time"
 
 	"github.com/Pyrinpyi/go-secp256k1"
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common/rpc"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/stability-tests/common/rpc"
+	"github.com/e4p1k0/pyipad/util"
 	"github.com/pkg/errors"
 )
 

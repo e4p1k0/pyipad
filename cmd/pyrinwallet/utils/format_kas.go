@@ -3,7 +3,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/constants"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/constants"
 )
 
 // FormatKas takes the amount of leors as uint64, and returns amount of PYI with 8  decimal places

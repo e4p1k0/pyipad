@@ -3,11 +3,11 @@ package libpyrinwallet
 import (
 	"encoding/hex"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/daemon/pb"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/transactionid"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/utxo"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/daemon/pb"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/transactionid"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/utxo"
 )
 
 // PyrinwalletdUTXOsTolibpyrinwalletUTXOs converts a  []*pb.UtxosByAddressesEntry to a []*libpyrinwallet.UTXO

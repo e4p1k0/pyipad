@@ -1,10 +1,10 @@
 package consensushashing
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/hashes"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/serialization"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/subnetworks"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/hashes"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/serialization"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/subnetworks"
 	"github.com/pkg/errors"
 )
 

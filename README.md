@@ -3,7 +3,7 @@ pyipad
 ====
 
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/Pyrinpyi/pyipad)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/e4p1k0/pyipad)
 
 pyipad is the reference full node Pyrin implementation written in Go (golang).
 
@@ -31,7 +31,7 @@ $ go version
 - Run the following commands to obtain and install pyipad including all dependencies:
 
 ```bash
-$ git clone https://github.com/Pyrinpyi/pyipad
+$ git clone https://github.com/e4p1k0/pyipad
 $ cd pyipad
 $ go install . ./cmd/...
 ```
@@ -55,7 +55,7 @@ Join our discord server using the following link: https://discord.gg/sFSASsgx
 
 ## Issue Tracker
 
-The [integrated github issue tracker](https://github.com/Pyrinpyi/pyipad/issues)
+The [integrated github issue tracker](https://github.com/e4p1k0/pyipad/issues)
 is used for this project.
 
 ## Documentation

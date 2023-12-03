@@ -3,18 +3,18 @@ package handshake
 import (
 	"sync/atomic"
 
-	"github.com/Pyrinpyi/pyipad/domain"
+	"github.com/e4p1k0/pyipad/domain"
 
-	"github.com/Pyrinpyi/pyipad/app/protocol/common"
-	"github.com/Pyrinpyi/pyipad/app/protocol/protocolerrors"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/addressmanager"
+	"github.com/e4p1k0/pyipad/app/protocol/common"
+	"github.com/e4p1k0/pyipad/app/protocol/protocolerrors"
+	"github.com/e4p1k0/pyipad/infrastructure/network/addressmanager"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	peerpkg "github.com/Pyrinpyi/pyipad/app/protocol/peer"
-	routerpkg "github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	peerpkg "github.com/e4p1k0/pyipad/app/protocol/peer"
+	routerpkg "github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
 	"github.com/pkg/errors"
 )
 

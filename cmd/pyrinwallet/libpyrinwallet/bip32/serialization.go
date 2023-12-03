@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 
 	"github.com/Pyrinpyi/go-secp256k1"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/libpyrinwallet/bip32/base58"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/libpyrinwallet/bip32/base58"
 	"github.com/pkg/errors"
 )
 

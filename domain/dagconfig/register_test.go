@@ -3,7 +3,7 @@ package dagconfig_test
 import (
 	"testing"
 
-	. "github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	. "github.com/e4p1k0/pyipad/domain/dagconfig"
 )
 
 // Define some of the required parameters for a user-registered

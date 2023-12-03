@@ -7,9 +7,9 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/subnetworks"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/subnetworks"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 func TestCreateDefaultConfigFile(t *testing.T) {

@@ -2,13 +2,13 @@ package netadapter
 
 import (
 	"fmt"
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	routerpkg "github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	routerpkg "github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
 	"github.com/pkg/errors"
 	"sync/atomic"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/id"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/id"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server"
 )
 
 // NetConnection is a wrapper to a server connection for use by services external to NetAdapter

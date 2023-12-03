@@ -3,10 +3,10 @@ package rpc
 import (
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/rpcclient"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/infrastructure/network/rpcclient"
 
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
 )
 
 const defaultRPCServer = "localhost"

@@ -1,6 +1,6 @@
 package appmessage
 
-import "github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+import "github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
 // mainnetGenesisHash is the hash of the first block in the block DAG for the
 // main network (genesis block).

@@ -3,7 +3,7 @@ package blockrelay
 import (
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
 )
 
 func TestIBDBatchSizeLessThanRouteCapacity(t *testing.T) {

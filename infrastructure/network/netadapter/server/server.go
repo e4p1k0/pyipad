@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
 )
 
 // OnConnectedHandler is a function that is to be called

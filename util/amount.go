@@ -8,7 +8,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/constants"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/constants"
 	"github.com/pkg/errors"
 )
 

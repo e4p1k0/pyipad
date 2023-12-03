@@ -4,8 +4,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
 
 	"github.com/jessevdk/go-flags"
 )

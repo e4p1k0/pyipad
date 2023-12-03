@@ -1,6 +1,6 @@
 package lrucacheuint64tohash
 
-import "github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+import "github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
 // LRUCache is a least-recently-used cache from
 // uint64 to DomainHash

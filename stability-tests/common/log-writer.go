@@ -3,7 +3,7 @@ package common
 import (
 	"strings"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
 )
 
 // LogWriter writes to the given log with the given log level and prefix

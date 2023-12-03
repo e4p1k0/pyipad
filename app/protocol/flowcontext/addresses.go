@@ -1,7 +1,7 @@
 package flowcontext
 
 import (
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/addressmanager"
+	"github.com/e4p1k0/pyipad/infrastructure/network/addressmanager"
 )
 
 // AddressManager returns the address manager associated to the flow context.

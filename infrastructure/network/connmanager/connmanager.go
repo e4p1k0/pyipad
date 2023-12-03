@@ -6,15 +6,15 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/dnsseed"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/infrastructure/network/dnsseed"
 	"github.com/pkg/errors"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/addressmanager"
+	"github.com/e4p1k0/pyipad/infrastructure/network/addressmanager"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
 )
 
 // connectionRequest represents a user request (either through CLI or RPC) to connect to a certain node

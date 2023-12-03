@@ -4,18 +4,18 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/util/mstime"
+	"github.com/e4p1k0/pyipad/util/mstime"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
-	"github.com/Pyrinpyi/pyipad/domain"
+	"github.com/e4p1k0/pyipad/domain"
 
-	peerpkg "github.com/Pyrinpyi/pyipad/app/protocol/peer"
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/addressmanager"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/connmanager"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/id"
+	peerpkg "github.com/e4p1k0/pyipad/app/protocol/peer"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/network/addressmanager"
+	"github.com/e4p1k0/pyipad/infrastructure/network/connmanager"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/id"
 )
 
 // OnNewBlockTemplateHandler is a handler function that's triggered when a new block template is available

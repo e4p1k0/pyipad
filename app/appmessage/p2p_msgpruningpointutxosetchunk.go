@@ -1,6 +1,6 @@
 package appmessage
 
-import "github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+import "github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
 // MsgPruningPointUTXOSetChunk represents a pyrin PruningPointUTXOSetChunk message
 type MsgPruningPointUTXOSetChunk struct {

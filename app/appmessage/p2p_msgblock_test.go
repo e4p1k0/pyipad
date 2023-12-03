@@ -9,12 +9,12 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/util/mstime"
+	"github.com/e4p1k0/pyipad/util/mstime"
 	"github.com/davecgh/go-spew/spew"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/subnetworks"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/subnetworks"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 // TestBlock tests the MsgBlock API.

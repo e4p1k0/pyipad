@@ -10,10 +10,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/util"
 )
 
 // mustParseShortForm parses the passed short form script and returns the

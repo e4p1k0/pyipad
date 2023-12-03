@@ -4,10 +4,10 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/prefixmanager/prefix"
+	"github.com/e4p1k0/pyipad/domain/prefixmanager/prefix"
 
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database/ldb"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database/ldb"
 )
 
 func TestNewConsensus(t *testing.T) {

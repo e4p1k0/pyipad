@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/standalone"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
-	"github.com/Pyrinpyi/pyipad/util/panics"
-	"github.com/Pyrinpyi/pyipad/util/profiling"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/standalone"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/util/profiling"
 )
 
 func main() {

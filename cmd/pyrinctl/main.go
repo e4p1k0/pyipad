@@ -5,14 +5,14 @@ import (
 	"os"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/version"
+	"github.com/e4p1k0/pyipad/version"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
 
 	"github.com/pkg/errors"
 	"google.golang.org/protobuf/encoding/protojson"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/rpcclient/grpcclient"
+	"github.com/e4p1k0/pyipad/infrastructure/network/rpcclient/grpcclient"
 )
 
 func main() {

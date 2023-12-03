@@ -1,10 +1,10 @@
 package mempoollimits
 
 import (
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/rpcclient"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
-	"github.com/Pyrinpyi/pyipad/util/panics"
-	"github.com/Pyrinpyi/pyipad/util/profiling"
+	"github.com/e4p1k0/pyipad/infrastructure/network/rpcclient"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/util/profiling"
 	"os"
 	"testing"
 )

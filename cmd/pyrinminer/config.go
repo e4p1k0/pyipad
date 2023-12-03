@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
 
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/util"
 	"github.com/pkg/errors"
 
-	"github.com/Pyrinpyi/pyipad/version"
+	"github.com/e4p1k0/pyipad/version"
 	"github.com/jessevdk/go-flags"
 )
 

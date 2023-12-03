@@ -1,9 +1,9 @@
 package mempool
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
-	"github.com/Pyrinpyi/pyipad/domain/miningmanager/mempool/model"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/miningmanager/mempool/model"
 )
 
 func (mp *mempool) removeTransactions(transactions []*externalapi.DomainTransaction, removeRedeemers bool) error {

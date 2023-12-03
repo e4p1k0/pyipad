@@ -7,9 +7,9 @@ package winservice
 import (
 	"fmt"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
-	"github.com/Pyrinpyi/pyipad/infrastructure/os/signal"
-	"github.com/Pyrinpyi/pyipad/version"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/os/signal"
+	"github.com/e4p1k0/pyipad/version"
 	"github.com/btcsuite/winsvc/eventlog"
 	"github.com/btcsuite/winsvc/svc"
 )

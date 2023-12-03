@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/Pyrinpyi/go-secp256k1"
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/mining"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/mining"
+	"github.com/e4p1k0/pyipad/util"
 	"math/rand"
 	"os"
 	"os/exec"
@@ -15,10 +15,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common/rpc"
-	"github.com/Pyrinpyi/pyipad/util/panics"
-	"github.com/Pyrinpyi/pyipad/util/profiling"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/stability-tests/common/rpc"
+	"github.com/e4p1k0/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/util/profiling"
 	"github.com/pkg/errors"
 )
 

@@ -8,14 +8,14 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/util/network"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/util/network"
 
 	"github.com/pkg/errors"
 
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/util"
 )
 
 // These variables are the DAG proof-of-work limit parameters for each default

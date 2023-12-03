@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/daemon/pb"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/libpyrinwallet"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/daemon/pb"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/libpyrinwallet"
+	"github.com/e4p1k0/pyipad/util"
 	"github.com/pkg/errors"
 )
 

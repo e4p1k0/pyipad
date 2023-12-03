@@ -1,7 +1,7 @@
 package protowire
 
 import (
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/app/appmessage"
 	"github.com/pkg/errors"
 )
 

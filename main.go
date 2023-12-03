@@ -8,7 +8,7 @@ import (
 	_ "net/http/pprof"
 	"os"
 
-	"github.com/Pyrinpyi/pyipad/app"
+	"github.com/e4p1k0/pyipad/app"
 )
 
 func main() {

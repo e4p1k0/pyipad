@@ -3,7 +3,7 @@ package integration
 import (
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/addressmanager"
+	"github.com/e4p1k0/pyipad/infrastructure/network/addressmanager"
 )
 
 func TestAddressExchange(t *testing.T) {

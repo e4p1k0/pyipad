@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/util"
 )
 
 func TestAddresses(t *testing.T) {

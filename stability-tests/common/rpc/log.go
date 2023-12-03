@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
-	"github.com/Pyrinpyi/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/util/panics"
 )
 
 // log is a logger that is initialized with no output filters. This

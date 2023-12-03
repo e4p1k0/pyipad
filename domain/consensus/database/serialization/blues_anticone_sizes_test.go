@@ -3,7 +3,7 @@ package serialization
 import (
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 // TestBlueAnticoneSizesSize tests that no data can be loss when converting externalapi.KType to the corresponding type in

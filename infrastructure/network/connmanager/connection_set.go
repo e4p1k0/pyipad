@@ -1,7 +1,7 @@
 package connmanager
 
 import (
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter"
 )
 
 type connectionSet map[string]*netadapter.NetConnection

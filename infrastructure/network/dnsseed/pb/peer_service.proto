@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/Pyrinpyi/pyipad/pb";
+option go_package = "github.com/e4p1k0/pyipad/pb";
 
 service PeerService {
   rpc GetPeersList(GetPeersListRequest) returns (GetPeersListResponse) {}

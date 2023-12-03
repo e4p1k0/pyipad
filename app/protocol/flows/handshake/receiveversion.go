@@ -1,12 +1,12 @@
 package handshake
 
 import (
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/app/protocol/common"
-	peerpkg "github.com/Pyrinpyi/pyipad/app/protocol/peer"
-	"github.com/Pyrinpyi/pyipad/app/protocol/protocolerrors"
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/router"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/app/protocol/common"
+	peerpkg "github.com/e4p1k0/pyipad/app/protocol/peer"
+	"github.com/e4p1k0/pyipad/app/protocol/protocolerrors"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/router"
 	"github.com/pkg/errors"
 )
 

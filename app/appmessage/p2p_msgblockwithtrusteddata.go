@@ -3,7 +3,7 @@ package appmessage
 import (
 	"math/big"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 // MsgBlockWithTrustedData represents a pyrin BlockWithTrustedData message

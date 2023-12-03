@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
 )
 
 var commandTypes = []reflect.Type{

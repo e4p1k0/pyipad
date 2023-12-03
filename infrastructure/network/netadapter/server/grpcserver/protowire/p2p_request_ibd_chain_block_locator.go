@@ -1,8 +1,8 @@
 package protowire
 
 import (
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 	"github.com/pkg/errors"
 )
 

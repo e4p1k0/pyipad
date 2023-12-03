@@ -7,18 +7,18 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 
-	"github.com/Pyrinpyi/pyipad/util/txmass"
+	"github.com/e4p1k0/pyipad/util/txmass"
 
-	"github.com/Pyrinpyi/pyipad/util/profiling"
+	"github.com/e4p1k0/pyipad/util/profiling"
 
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/daemon/pb"
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/keys"
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/rpcclient"
-	"github.com/Pyrinpyi/pyipad/infrastructure/os/signal"
-	"github.com/Pyrinpyi/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/daemon/pb"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/keys"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/infrastructure/network/rpcclient"
+	"github.com/e4p1k0/pyipad/infrastructure/os/signal"
+	"github.com/e4p1k0/pyipad/util/panics"
 	"github.com/pkg/errors"
 
 	"google.golang.org/grpc"

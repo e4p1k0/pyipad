@@ -4,9 +4,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensusreference"
-	miningmanagermodel "github.com/Pyrinpyi/pyipad/domain/miningmanager/model"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensusreference"
+	miningmanagermodel "github.com/e4p1k0/pyipad/domain/miningmanager/model"
 )
 
 // MiningManager creates block templates for mining as well as maintaining

@@ -8,7 +8,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/app/appmessage"
 )
 
 // TestIPTypes ensures the various functions which determine the type of an IP

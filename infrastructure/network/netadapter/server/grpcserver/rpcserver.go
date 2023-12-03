@@ -1,9 +1,9 @@
 package grpcserver
 
 import (
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server"
-	"github.com/Pyrinpyi/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
-	"github.com/Pyrinpyi/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server"
+	"github.com/e4p1k0/pyipad/infrastructure/network/netadapter/server/grpcserver/protowire"
+	"github.com/e4p1k0/pyipad/util/panics"
 )
 
 type rpcServer struct {

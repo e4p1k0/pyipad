@@ -7,7 +7,7 @@ package bech32_test
 import (
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/util/bech32"
+	"github.com/e4p1k0/pyipad/util/bech32"
 )
 
 var checkEncodingStringTests = []struct {

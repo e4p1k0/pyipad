@@ -7,17 +7,17 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database"
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database/ldb"
-	"github.com/Pyrinpyi/pyipad/infrastructure/logger"
-	"github.com/Pyrinpyi/pyipad/infrastructure/os/execenv"
-	"github.com/Pyrinpyi/pyipad/infrastructure/os/limits"
-	"github.com/Pyrinpyi/pyipad/infrastructure/os/signal"
-	"github.com/Pyrinpyi/pyipad/infrastructure/os/winservice"
-	"github.com/Pyrinpyi/pyipad/util/panics"
-	"github.com/Pyrinpyi/pyipad/util/profiling"
-	"github.com/Pyrinpyi/pyipad/version"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database/ldb"
+	"github.com/e4p1k0/pyipad/infrastructure/logger"
+	"github.com/e4p1k0/pyipad/infrastructure/os/execenv"
+	"github.com/e4p1k0/pyipad/infrastructure/os/limits"
+	"github.com/e4p1k0/pyipad/infrastructure/os/signal"
+	"github.com/e4p1k0/pyipad/infrastructure/os/winservice"
+	"github.com/e4p1k0/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/util/profiling"
+	"github.com/e4p1k0/pyipad/version"
 )
 
 const (

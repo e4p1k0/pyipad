@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/app/appmessage"
 )
 
 func Test16IncomingConnections(t *testing.T) {

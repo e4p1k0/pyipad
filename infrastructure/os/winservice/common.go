@@ -1,6 +1,6 @@
 package winservice
 
-import "github.com/Pyrinpyi/pyipad/infrastructure/config"
+import "github.com/e4p1k0/pyipad/infrastructure/config"
 
 // ServiceDescription contains information about a service, needed to administer it
 type ServiceDescription struct {

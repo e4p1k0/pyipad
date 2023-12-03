@@ -3,7 +3,7 @@ package addressmanager
 import (
 	"net"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/config"
+	"github.com/e4p1k0/pyipad/infrastructure/config"
 )
 
 // Config is a descriptor which specifies the AddressManager instance configuration.

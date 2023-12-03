@@ -5,17 +5,17 @@ import (
 	"math"
 	"math/big"
 
-	difficultyPackage "github.com/Pyrinpyi/pyipad/util/difficulty"
+	difficultyPackage "github.com/e4p1k0/pyipad/util/difficulty"
 	"github.com/pkg/errors"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/hashes"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/hashes"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/txscript"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/txscript"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
 )
 
 // ErrBuildBlockVerboseDataInvalidBlock indicates that a block that was given to BuildBlockVerboseData is invalid.

@@ -7,7 +7,7 @@ package appmessage
 import (
 	"net"
 
-	"github.com/Pyrinpyi/pyipad/util/mstime"
+	"github.com/e4p1k0/pyipad/util/mstime"
 )
 
 // NetAddress defines information about a peer on the network including the time

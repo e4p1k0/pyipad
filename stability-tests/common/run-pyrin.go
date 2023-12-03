@@ -2,7 +2,7 @@ package common
 
 import (
 	"fmt"
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
 	"os"
 	"sync/atomic"
 	"syscall"

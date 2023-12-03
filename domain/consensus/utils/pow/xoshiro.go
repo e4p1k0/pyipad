@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math/bits"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 type xoShiRo256PlusPlus struct {

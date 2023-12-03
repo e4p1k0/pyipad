@@ -1,7 +1,7 @@
 package serialization
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model"
+	"github.com/e4p1k0/pyipad/domain/consensus/model"
 )
 
 func reachablityIntervalToDBReachablityInterval(reachabilityInterval *model.ReachabilityInterval) *DbReachabilityInterval {

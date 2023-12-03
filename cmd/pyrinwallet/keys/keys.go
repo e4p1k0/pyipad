@@ -12,10 +12,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Pyrinpyi/pyipad/cmd/pyrinwallet/utils"
+	"github.com/e4p1k0/pyipad/cmd/pyrinwallet/utils"
 
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
-	"github.com/Pyrinpyi/pyipad/util"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/util"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/argon2"
 	"golang.org/x/crypto/chacha20poly1305"

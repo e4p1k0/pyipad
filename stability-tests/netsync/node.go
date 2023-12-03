@@ -2,19 +2,19 @@ package main
 
 import (
 	"fmt"
-	"github.com/Pyrinpyi/pyipad/domain/consensus"
+	"github.com/e4p1k0/pyipad/domain/consensus"
 	"os/exec"
 	"strings"
 	"sync/atomic"
 	"syscall"
 	"time"
 
-	"github.com/Pyrinpyi/pyipad/app/appmessage"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common/mine"
-	"github.com/Pyrinpyi/pyipad/stability-tests/common/rpc"
-	"github.com/Pyrinpyi/pyipad/util"
-	"github.com/Pyrinpyi/pyipad/util/panics"
+	"github.com/e4p1k0/pyipad/app/appmessage"
+	"github.com/e4p1k0/pyipad/stability-tests/common"
+	"github.com/e4p1k0/pyipad/stability-tests/common/mine"
+	"github.com/e4p1k0/pyipad/stability-tests/common/rpc"
+	"github.com/e4p1k0/pyipad/util"
+	"github.com/e4p1k0/pyipad/util/panics"
 	"github.com/pkg/errors"
 )
 

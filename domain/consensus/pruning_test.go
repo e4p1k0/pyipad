@@ -3,9 +3,9 @@ package consensus_test
 import (
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/testutils"
-	"github.com/Pyrinpyi/pyipad/domain/dagconfig"
+	"github.com/e4p1k0/pyipad/domain/consensus"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/testutils"
+	"github.com/e4p1k0/pyipad/domain/dagconfig"
 )
 
 func TestPruningDepth(t *testing.T) {

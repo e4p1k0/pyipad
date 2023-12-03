@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database"
 )
 
 func TestDatabasePut(t *testing.T) {

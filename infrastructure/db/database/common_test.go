@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database"
-	"github.com/Pyrinpyi/pyipad/infrastructure/db/database/ldb"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database"
+	"github.com/e4p1k0/pyipad/infrastructure/db/database/ldb"
 )
 
 type databasePrepareFunc func(t *testing.T, testName string) (db database.Database, name string, teardownFunc func())

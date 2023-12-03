@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/transactionid"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/transactionid"
 
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
 )
 
 func (mud *mutableUTXODiff) equal(other *mutableUTXODiff) bool {

@@ -1,11 +1,11 @@
 package pow
 
 import (
-	"github.com/Pyrinpyi/pyipad/domain/consensus/model/externalapi"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/consensushashing"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/hashes"
-	"github.com/Pyrinpyi/pyipad/domain/consensus/utils/serialization"
-	"github.com/Pyrinpyi/pyipad/util/difficulty"
+	"github.com/e4p1k0/pyipad/domain/consensus/model/externalapi"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/consensushashing"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/hashes"
+	"github.com/e4p1k0/pyipad/domain/consensus/utils/serialization"
+	"github.com/e4p1k0/pyipad/util/difficulty"
 
 	"math/big"
 

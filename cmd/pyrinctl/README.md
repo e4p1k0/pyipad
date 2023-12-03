@@ -22,7 +22,7 @@ $ go version
 - Run the following commands to obtain and install pyipad including all dependencies:
 
 ```bash
-$ git clone https://github.com/Pyrinpyi/pyipad
+$ git clone https://github.com/e4p1k0/pyipad
 $ cd pyipad/cmd/pyrinctl
 $ go install .
 ```
